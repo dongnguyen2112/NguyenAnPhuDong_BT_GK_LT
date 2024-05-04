@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "585581145209",
+    "project_id": "bt-gk-ea76c",
+    "storage_bucket": "bt-gk-ea76c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:585581145209:android:ec0f656f21db6c4abff8a8",
+        "android_client_info": {
+          "package_name": "com.anonymous.BT_GK_LT"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCxepdOm26u11rgyLLVK_Wl5JPpx6G4ENM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
